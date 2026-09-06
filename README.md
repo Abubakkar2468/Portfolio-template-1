@@ -26,7 +26,7 @@ Replace the placeholder URL above with your deployed Vercel or Netlify URL once 
 
 ### Homepage
 
-![Northstar homepage preview](docs/screenshots/homepage.png)
+![Northstar homepage preview](docs/screenshots/homepage.jpg)
 
 ### Selected projects
 
