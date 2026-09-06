@@ -1,6 +1,36 @@
 # Northstar Portfolio Template
 
-Northstar is a production-ready React + Vite + Tailwind CSS portfolio template for designers, developers, and creative studios. It includes responsive sections, project detail routing, dark mode, SEO metadata, optimized image loading, a Formspree contact flow, and deployment configuration for Vercel and Netlify.
+> A focused portfolio starter for thoughtful digital work.
+
+Northstar is a production-ready React + Vite + Tailwind CSS portfolio template for designers, developers, and creative studios. It is designed to be easy to customize, fast to deploy, and polished enough to use as the foundation for a commercial portfolio.
+
+## Features
+
+- Responsive hero section with profile image, introduction, and calls to action
+- Skills grid for presenting services and capabilities
+- Project showcase with reusable cards and project detail routes
+- Notes/blog archive with individual article pages
+- Formspree-powered contact form with success and error states
+- Light/dark mode with system preference detection
+- SEO metadata, Open Graph tags, favicon, and social preview asset
+- Vercel and Netlify SPA routing configuration
+- Lazy-loaded images and production-ready Vite build
+
+## Live demo
+
+[View the live demo](https://portfolios-template1.netlify.app/)
+
+Replace the placeholder URL above with your deployed Vercel or Netlify URL once the site is live.
+
+## Preview
+
+### Homepage
+
+![Northstar homepage preview](docs/screenshots/homepage.png)
+
+### Selected projects
+
+![Northstar projects preview](docs/screenshots/projects.png)
 
 ## Requirements
 
@@ -61,22 +91,4 @@ Remote images use Unsplash width and quality parameters. Below-the-fold project 
 
 ## License
 
-Released under the MIT License. See [LICENSE](LICENSE).# Northstar Portfolio Template
-
-A polished React + Tailwind CSS portfolio template with React Router navigation.
-
-## Run locally
-
-```bash
-npm install
-npm run dev
-```
-
-Open the local URL printed by Vite. Replace the placeholder copy, images, project data, and contact form handler with your own content.
-
-## Build
-
-```bash
-npm run build
-npm run preview
-```
+Released under the MIT License. See [LICENSE](LICENSE).
