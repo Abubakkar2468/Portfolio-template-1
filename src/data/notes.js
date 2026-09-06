@@ -3,7 +3,7 @@ export const notes = [
     id: 'sharpest-version-of-an-idea',
     title: 'How to find the sharpest version of an idea',
     copy: 'Notes on reducing noise and making better creative decisions.',
-    date: 'May 14, 2024',
+    date: 'May 14, 2026',
     category: 'Process',
     intro: 'The strongest ideas are rarely hidden. More often, they are surrounded by too much noise.',
     paragraphs: [
@@ -16,7 +16,7 @@ export const notes = [
     id: 'smaller-design-system',
     title: 'The case for a smaller design system',
     copy: 'A few practical thoughts on keeping foundations useful.',
-    date: 'Apr 02, 2024',
+    date: 'Apr 02, 2026',
     category: 'Systems',
     intro: 'A design system earns its place when it helps a team make good decisions faster.',
     paragraphs: [
@@ -29,7 +29,7 @@ export const notes = [
     id: 'shipping-in-public',
     title: 'What I learned from shipping in public',
     copy: 'The good, the awkward, and the surprisingly productive.',
-    date: 'Feb 18, 2024',
+    date: 'Feb 18, 2026',
     category: 'Practice',
     intro: 'Showing unfinished work changes the quality of the conversation around it.',
     paragraphs: [

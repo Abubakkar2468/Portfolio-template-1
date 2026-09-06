@@ -2,7 +2,7 @@ import { ArrowUpRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const projects = [
-  { id: 'atlas', type: 'Product design · 2024', title: 'Atlas Finance', copy: 'Making investing feel less intimidating for a new generation.', image: 'https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=85', className: 'md:col-span-7' },
+  { id: 'atlas', type: 'Product design · 2026', title: 'Atlas Finance', copy: 'Making investing feel less intimidating for a new generation.', image: 'https://images.unsplash.com/photo-1556761175-b413da4baf72?auto=format&fit=crop&w=1200&q=85', className: 'md:col-span-7' },
   { id: 'morrow', type: 'Brand identity · 2023', title: 'Morrow Studio', copy: 'A warmer identity for a studio shaping the future of work.', image: 'https://images.unsplash.com/photo-1558655146-9f40138edfeb?auto=format&fit=crop&w=1200&q=85', className: 'md:col-span-5' },
   { id: 'fieldnotes', type: 'Web development · 2023', title: 'Field Notes', copy: 'A calm digital home for curious people and big questions.', image: 'https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1200&q=85', className: 'md:col-span-5' },
   { id: 'lumen', type: 'Product design · 2022', title: 'Lumen Health', copy: 'Putting better daily habits within easy reach.', image: 'https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=1200&q=85', className: 'md:col-span-7' }
